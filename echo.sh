@@ -1,6 +1,6 @@
 #!/bin/bash
-#echoコマンドは文字列を出力するために使えます。
 
+#echoコマンドは文字列を出力するために使えます。
 echo 'Hello, World!'
 #出力: Hello, World!
 
